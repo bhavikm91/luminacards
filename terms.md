@@ -6,7 +6,7 @@ permalink: /terms/
 # Terms of Service for Lumina Cards
 
 **Effective Date:** 25 October 2026  
-**Last Updated:** 25 October 2026
+**Last Updated:** 26 October 2026
 
 ## 1. Agreement to Terms
 
@@ -57,7 +57,7 @@ The exact feature set may be updated over time. Features available in the free v
 
 ### 5.2 Billing and Payment
 - Payment and subscription management are handled exclusively by the **Apple App Store** or **Google Play Store**.
-- Prices are currently £5 per month or £50 per year (or the local-currency equivalent displayed in the store). Prices may change; any change will be communicated through the store.
+- In the UK, prices are currently £3 per month or £30 per year. In other countries the store shows the price in your local currency, including any local taxes. Prices may change; any change will be communicated through the store.
 - Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period.
 - Your Apple or Google account will be charged for renewal within 24 hours prior to the end of the current period.
 - You can manage or cancel your subscription at any time in your device’s App Store or Play Store account settings.
