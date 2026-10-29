@@ -1,10 +1,10 @@
 ---
-title: Lumina Cards
+title: Sanqt
 ---
 
-# Lumina Cards
+# Sanqt
 
-Loyalty cards, IDs, logins and documents in one app, encrypted on your phone. No account, no tracking, nothing sent to a server.
+Your loyalty cards, IDs, passwords, documents and notes in one private place, encrypted on your phone. No account, no tracking, nothing sent to a server.
 
 - [Privacy Policy](privacy/)
 - [Terms of Service](terms/)

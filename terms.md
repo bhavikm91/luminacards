@@ -3,20 +3,20 @@ title: Terms of Service
 permalink: /terms/
 ---
 
-# Terms of Service for Lumina Cards
+# Terms of Service for Sanqt
 
-**Effective Date:** 25 October 2026  
-**Last Updated:** 26 October 2026
+**Effective Date:** 29 October 2026  
+**Last Updated:** 29 October 2026
 
 ## 1. Agreement to Terms
 
-These Terms of Service (“Terms”) govern your use of the Lumina Cards mobile application (shown on your device as “Lumina”; “the App”) developed by Bhavik Makwana (“we”, “us”, or “our”). By downloading, installing, or using the App, you agree to these Terms. If you do not agree, do not use the App.
+These Terms of Service (“Terms”) govern your use of the Sanqt mobile application (“the App”) developed by Bhavik Makwana (“we”, “us”, or “our”). By downloading, installing, or using the App, you agree to these Terms. If you do not agree, do not use the App.
 
-These Terms apply to both the free version and the optional Lumina Plus subscription.
+These Terms apply to both the free version and the optional Sanqt Plus subscription.
 
 ## 2. Description of the App
 
-Lumina Cards is a client-side application that allows you to store loyalty cards, identification documents, logins, text notes, payment cards, lists, and other personal items **entirely on your device**. All data you enter remains on your device, is encrypted by the App, and is protected by a PIN or device biometrics. We do not have access to your data.
+Sanqt is a client-side application that allows you to store loyalty cards, identification documents, logins, text notes, payment cards, lists, and other personal items **entirely on your device**. All data you enter remains on your device, is encrypted by the App, and is protected by a PIN or device biometrics. We do not have access to your data.
 
 ## 3. License
 
@@ -39,10 +39,10 @@ You are solely responsible for:
 
 We do not access, review, or monitor the content you store. Because the App is fully local, we have no ability to restore your data if your device is lost, damaged, or reset unless you have previously created and retained an encrypted backup file.
 
-## 5. Lumina Plus Subscription
+## 5. Sanqt Plus Subscription
 
 ### 5.1 What Plus Includes
-Lumina Plus is an optional auto-renewable subscription that unlocks additional features, including (but not limited to):
+Sanqt Plus is an optional auto-renewable subscription that unlocks additional features, including (but not limited to):
 
 - Unlimited vault storage (more than 5 documents, IDs, and logins)
 - Ability to save payment cards (including expiry date and CVV) behind your PIN

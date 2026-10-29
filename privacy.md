@@ -3,16 +3,16 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-# Privacy Policy for Lumina Cards
+# Privacy Policy for Sanqt
 
-**Effective Date:** 25 October 2026  
-**Last Updated:** 25 October 2026
+**Effective Date:** 29 October 2026  
+**Last Updated:** 29 October 2026
 
 ## 1. Introduction
 
-Lumina Cards (shown on your device as “Lumina”; “the App”, “we”, “us”, or “our”) is a mobile application developed by Bhavik Makwana that lets you store loyalty cards, IDs, logins, documents, text notes, payment cards, lists, and similar items **entirely on your device**.
+Sanqt (“the App”, “we”, “us”, or “our”) is a mobile application developed by Bhavik Makwana that lets you store loyalty cards, IDs, logins, documents, text notes, payment cards, lists, and similar items **entirely on your device**.
 
-This Privacy Policy explains how information is handled when you use the App. Because Lumina Cards is designed to operate fully on the client side, we do **not** collect, store, process, or have access to the personal data you enter into the App.
+This Privacy Policy explains how information is handled when you use the App. Because Sanqt is designed to operate fully on the client side, we do **not** collect, store, process, or have access to the personal data you enter into the App.
 
 This policy applies to the iOS and Android versions of the App available on the Apple App Store and Google Play Store.
 
@@ -20,10 +20,10 @@ This policy applies to the iOS and Android versions of the App available on the 
 
 - **All of your data stays on your device.** Loyalty cards, IDs, logins, documents, notes, payment card details (including expiry dates and CVVs), lists, and any other content you add remain in the App’s private, sandboxed storage on your phone or tablet.
 - **Your data is encrypted by the App.** Everything you save is encrypted on your device with a key protected by your PIN, in addition to the encryption your phone provides.
-- **We have no access to your data.** We do not operate servers that receive, store, or process the content you save in Lumina Cards, and the App does not send your content over the internet.
+- **We have no access to your data.** We do not operate servers that receive, store, or process the content you save in Sanqt, and the App does not send your content over the internet.
 - **No accounts required.** You do not need to create an account, provide an email address, or sign in with any third-party service to use the App.
 - **No tracking or analytics.** We do not use analytics tools, advertising networks, crash-reporting services, or any other third-party SDKs that collect or transmit data about you or your use of the App.
-- **Payments are handled by the stores.** When you purchase a Lumina Plus subscription, the transaction is processed entirely by Apple (App Store) or Google (Play Store). We never see or store your payment card details.
+- **Payments are handled by the stores.** When you purchase a Sanqt Plus subscription, the transaction is processed entirely by Apple (App Store) or Google (Play Store). We never see or store your payment card details.
 
 ## 3. Information We Do Not Collect
 
@@ -74,7 +74,7 @@ You can deny or revoke these permissions in your device settings. Core functiona
 
 ## 6. In-App Purchases and Subscriptions
 
-Lumina Plus is an optional auto-renewable subscription sold through the Apple App Store or Google Play Store.  
+Sanqt Plus is an optional auto-renewable subscription sold through the Apple App Store or Google Play Store.  
 
 - Apple or Google processes the payment.
 - The App checks whether your subscription is active with Apple or Google on your device. We do not receive your payment details, billing address, or Apple/Google account information.
@@ -93,7 +93,7 @@ The only third parties involved are:
 
 ## 8. Children’s Privacy
 
-Lumina Cards is not directed at children under the age of 13 (or the equivalent minimum age in your jurisdiction). We do not knowingly collect personal information from children. Because we do not collect personal data from any users, this risk is minimal. If you believe a child has provided information to us via support email, please contact us so we can delete it.
+Sanqt is not directed at children under the age of 13 (or the equivalent minimum age in your jurisdiction). We do not knowingly collect personal information from children. Because we do not collect personal data from any users, this risk is minimal. If you believe a child has provided information to us via support email, please contact us so we can delete it.
 
 ## 9. Your Rights
 
